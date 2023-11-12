@@ -1,0 +1,19 @@
+.score {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1px;
+    
+    margin: 50px;
+}
+
+
+p{
+    font-size: 50px;
+    margin-bottom: 1px;
+}
+
+h1 {
+    font-size: 90px;
+    margin-top: 2px;
+}

@@ -1,0 +1,25 @@
+
+
+    .text-hand-selection{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+
+    .heading{
+        font-size: 60px;
+    }
+
+    .para{
+        font-size: 30px;
+        margin-bottom: 0px;
+    }
+
+    .hand-select{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }

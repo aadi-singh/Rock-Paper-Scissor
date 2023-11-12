@@ -1,0 +1,16 @@
+.hand-selection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px;
+    background-color:skyblue ;
+    border-radius: 20px;
+
+}
+
+
+.hand{
+    font-size: 150px;
+    margin: 80px;
+    text-shadow: 9px 9px 7px lightslategray;   
+}
